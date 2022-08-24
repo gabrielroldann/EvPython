@@ -52,7 +52,7 @@ print('-'*25)
 print('Posição do Ceará SC: ')
 print('O Ceará SC está na 15º posição.')
 
-# Maneira 02 (Estrutura de Repetição
+# Maneira 02 (Estrutura de Repetição)
 
 print('='*25)
 print('Tabelas de Colocações')
